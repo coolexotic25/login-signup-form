@@ -1,4 +1,4 @@
-function setFormMessage(formElement, type, message) {
+npm stfunction setFormMessage(formElement, type, message) {
     const messageElement = formElement.querySelector(".form__message");
 
     messageElement.textContent = message;
